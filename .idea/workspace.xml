@@ -12,156 +12,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d3eaa6-3d06-44d3-9911-02ff8971be1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TestSDL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/includes_CXX.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/OpenGLTest.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/OpenGLTest.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/SDL2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/TestSDL.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/TestSDL.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_atomic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_audio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_bits.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_blendmode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_clipboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_cpuinfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_egl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_endian.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_error.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_events.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_filesystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_gamecontroller.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_gesture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_haptic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_hints.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_joystick.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_keyboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_keycode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_loadso.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_messagebox.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_mouse.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_mutex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_name.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengl_glext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles2_gl2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles2_gl2ext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles2_gl2platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_opengles2_khrplatform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_pixels.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_power.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_quit.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_rect.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_render.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_revision.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_rwops.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_scancode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_sensor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_shape.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_stdinc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_surface.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_system.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_syswm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_compare.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_crc32.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_fuzzer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_harness.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_images.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_md5.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_memory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_test_random.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_thread.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_timer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_touch.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_types.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_version.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_video.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SDL_vulkan.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/begin_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/close_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cmake/SDL2/sdl2-config.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2.dll.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2_test.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2_test.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2main.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/libSDL2main.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pkgconfig/sdl2.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenGLTest.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestSDL.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OpenGLTest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OpenGLTest.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -187,18 +76,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/accents.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -214,6 +109,7 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/accents.txt" />
       </list>
     </option>
   </component>
@@ -231,22 +127,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="OpenGLTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestSDL" type="462c0819:PsiDirectoryNode" />
+              <item name="Projet1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
@@ -283,17 +180,18 @@
       <workItem from="1549303634846" duration="767000" />
       <workItem from="1549304418163" duration="143000" />
       <workItem from="1549304654074" duration="664000" />
+      <workItem from="1549575655249" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1574000" />
+    <option name="totallyTimeSpent" value="1592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2096577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2121027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,20 +224,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/accents.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
